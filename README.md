@@ -2,6 +2,6 @@
 
 A simple function that randomly generates and applies console text colors !
 
-Author: Ahmet Yalcinkaya
+**Author:** Ahmet Yalcinkaya
 
-Modules: random, sty
+**Modules:** random, sty
